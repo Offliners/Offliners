@@ -10,9 +10,9 @@
 
 ## 🎮 My Favorite Game
 <a href="" >
-<img align="left" src="https://github.com/Offliners/Offliners/blob/main/chess.gif" width="450" height="450">
+<img align="left" src="https://github.com/Offliners/Offliners/blob/main/chess.gif" width="400" height="400">
 </a>
                                                                                                             
 <a href="" >
-<img align="right" src="https://github.com/Offliners/Offliners/blob/main/go.gif" width="450" height="450">
+<img align="right" src="https://github.com/Offliners/Offliners/blob/main/go.gif" width="400" height="400">
 </a>
