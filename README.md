@@ -1,19 +1,19 @@
 ## <img src="https://github.com/Offliners/Offliners/blob/main/Hi.gif" width="30px"> Hi there, l'm Offliner.
 ```json
 {
-  "Name" : "Offliner", 
-  "Education" : {
-    "University" : [
-      "Major : NTNU Mechartonic Engineering",
-      "Double Major : NTNU Electrical Engineering"
-    ],
-    "Graduate School" : [
-      "Major : NTU Mechanical Engineering",
-      "Lab : Robotics Lab"
-    ]
-  },
-  "E-mail" : "eric21904@gmail.com",
-  "Motto" : "Never forget how you got today. - Aamir Khan"
+    "Name" : "Offliner", 
+    "Education" : {
+        "University" : [
+            "Major : NTNU Mechartonic Engineering",
+            "Double Major : NTNU Electrical Engineering"
+        ],
+        "Graduate School" : [
+            "Major : NTU Mechanical Engineering",
+            "Lab : Robotics Lab"
+        ]
+    },
+    "E-mail" : "eric21904@gmail.com",
+    "Motto" : "Never forget how you got today. - Aamir Khan"
 }
 ```
 
