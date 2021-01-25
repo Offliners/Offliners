@@ -4,12 +4,12 @@
   "Name" : "Offliner", 
   "Education" : {
     "University" : [
-      "Major" : "NTNU Mechartonic Engineering",
-      "Double Major" : "NTNU Electrical Engineering"
+      "Major : NTNU Mechartonic Engineering",
+      "Double Major : NTNU Electrical Engineering"
     ],
     "Graduate School" : [
-      "Major" : "NTU Mechanical Engineering",
-      "Lab" : "Robotics Lab"
+      "Major : NTU Mechanical Engineering",
+      "Lab : Robotics Lab"
     ]
   }
   "E-mail" : "eric21904@gmail.com"
