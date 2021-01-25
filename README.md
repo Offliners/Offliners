@@ -1,9 +1,18 @@
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, l'm Offlienr.
-```
+## <img src="https://github.com/Offliners/Offliners/blob/main/Hi.gif" width="30px"> Hi there, l'm Offlienr.
+```json
 {
   "Name" : "Offliner", 
-  "University" : "NTNU",
-  "Graduate School" : "NTU",
+  "Education" : {
+    "University" : [
+      "Major" : "NTNU Mechartonic Engineering",
+      "Double Major" : "NTNU Electrical Engineering"
+    ],
+    "Graduate School" : [
+      "Major" : "NTU Mechanical Engineering",
+      "Lab" : "Robotics Lab"
+    ]
+  }
+  "E-mail" : "eric21904@gmail.com"
 }
 ```
 
