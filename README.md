@@ -1,11 +1,11 @@
 ## 📈 GitHub Stat's
 
 <a href="" >
-<img src="https://github-readme-stats.vercel.app/api?username=Offliners&count_private=true&show_icons=true&theme=default">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Offliners&count_private=true&show_icons=true&theme=default">
 </a>
 
 <a href="">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Offliners&heigt=&theme=default">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Offliners&heigt=&theme=default">
 </a>
 
 ## 🎮 My Favorite Game
