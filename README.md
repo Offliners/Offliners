@@ -21,4 +21,7 @@
 </p>
 
 ## :Game Game
-![Google Dino](https://github.com/Offliners/Offliners/blob/main/dino.gif)
+<p align="center">
+<a href="https://github.com/Offliner">
+<img height="160em" src="https://github.com/Offliners/Offliners/blob/main/dino.gif" />
+</a>
