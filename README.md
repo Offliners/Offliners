@@ -20,13 +20,14 @@
 </a>
 
 ## 📈 GitHub Stat's
-<a href="" >
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Offliners&count_private=true&show_icons=true&theme=default">
+<p align="center">
+<a href="https://github.com/ronan696">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Offliner&theme=default" />
 </a>
-
-<a href="">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Offliners&heigt=&theme=default">
+<a href="https://github.com/ronan696">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Offliner&layout=compact&theme=default" />
 </a>
+</p>
 
 ## 🎮 My Favorite Game
 <a href="" >
