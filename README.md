@@ -1,11 +1,11 @@
 ## 📈 GitHub Stat's
 
 <a href="">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Offliners&layout=compact&heigt=&theme=algolia">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Offliners&layout=compact&heigt=&theme=default">
 </a>
 
 <a href="" >
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Offliners&count_private=true&show_icons=true&theme=algolia">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Offliners&count_private=true&show_icons=true&theme=default">
 </a>
 
 ## 🎮 My Favorite Game
