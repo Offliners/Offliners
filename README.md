@@ -11,7 +11,7 @@
       "Major : NTU Mechanical Engineering",
       "Lab : Robotics Lab"
     ]
-  }
+  },
   "E-mail" : "eric21904@gmail.com"
 }
 ```
