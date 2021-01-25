@@ -1,8 +1,9 @@
-## 👋 Hi there, l'm Offlienr.
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, l'm Offlienr.
 ```
 {
   "Name" : "Offliner", 
-   
+  "University" : "NTNU",
+  "Graduate School" : "NTU",
 }
 ```
 
@@ -23,5 +24,5 @@
 ## 🎮 Game
 <p align="center">
 <a href="https://github.com/Offliner">
-<img height="160em" src="https://github.com/Offliners/Offliners/blob/main/dino.gif" />
+<img height="200em" src="https://github.com/Offliners/Offliners/blob/main/dino.gif" />
 </a>
