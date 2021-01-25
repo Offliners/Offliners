@@ -14,6 +14,7 @@
   },
   "E-mail" : "eric21904@gmail.com",
   "Motto" : "Never forget how you got today. - Aamir Khan"
+}
 ```
 
 ## :trophy: Languages and Tools
