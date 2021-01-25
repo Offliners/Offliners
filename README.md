@@ -5,7 +5,8 @@
     "Education" : {
         "University" : [
             "Major : NTNU Mechartonic Engineering",
-            "Double Major : NTNU Electrical Engineering"
+            "Double Major : NTNU Electrical Engineering",
+            "Lab : Deep Learning Lab"
         ],
         "Graduate School" : [
             "Major : NTU Mechanical Engineering",
