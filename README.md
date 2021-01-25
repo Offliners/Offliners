@@ -28,12 +28,3 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Offliner&layout=compact&theme=default" />
 </a>
 </p>
-
-## 🎮 My Favorite Game
-<a href="" >
-<img align="center" src="https://github.com/Offliners/Offliners/blob/main/chess.gif" width="400" height="400">
-</a>
-                                                                                                            
-<a href="" >
-<img align="center" src="https://github.com/Offliners/Offliners/blob/main/go.gif" width="400" height="400">
-</a>
