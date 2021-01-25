@@ -22,9 +22,9 @@
 ## 📈 GitHub Stat's
 <p align="center">
 <a href="https://github.com/Offliner">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Offliners&theme=default" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Offliners&theme=default" />
 </a>
 <a href="https://github.com/Offliner">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Offliners&layout=compact&theme=default" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Offliners&layout=compact&theme=default" />
 </a>
 </p>
