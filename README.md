@@ -1,4 +1,4 @@
-## <img src="https://github.com/Offliners/Offliners/blob/main/Hi.gif" width="30px"> Hi there, l'm Offlienr.
+## <img src="https://github.com/Offliners/Offliners/blob/main/Hi.gif" width="30px"> Hi there, l'm Offliner.
 ```json
 {
   "Name" : "Offliner", 
