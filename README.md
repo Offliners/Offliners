@@ -14,7 +14,7 @@
 </a>
 </p>
 
-## 🎮 Offine Game
+## 🎮 Offline Game
 <p align="center">
 <a href="https://github.com/Offliner">
 <img height="200em" src="https://github.com/Offliners/Offliners/blob/main/dino.gif" />
