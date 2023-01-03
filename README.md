@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31uty524335ljnrrlnyjnf34z55i)
+
 ![GitHub Snake Light](https://github.com/Offliners/Offliners/blob/output/github-contribution-grid-snake.svg)
 
 
