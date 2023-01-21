@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Offliner</h1>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Offliners&hide_border=true)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
