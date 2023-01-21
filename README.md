@@ -4,7 +4,6 @@
   <a href="#"><img src="https://streak-stats.demolab.com?user=Offliners&hide_border=true)](https://git.io/streak-stats" width="450"></a>
 </p>
 
-
 <p align='center'>
   <br>I am currently a master student in National Taiwan University.</br>
   I am currently learning SLAM, 2D & 3D Computer Vision and Reinforcement Learning.
@@ -42,7 +41,7 @@
 
 
 <h2 align="left">🛠️ Languages and Tools</h2>
-<p align='left'>
+<p align='center'>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -68,13 +67,7 @@
 📆 2021 - Now\
 📍 **National Taiwan University** - Taipei, Taiwan
 
-<h2 align="left">🎧 Now Playing</h2>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uty524335ljnrrlnyjnf34z55i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31uty524335ljnrrlnyjnf34z55i&redirect=true)
-
 <h2 align="left">⏱️ WakaTime</h2>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=63a538e6-ad4f-403f-8640-82e050c36643&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
 <summary>More</summary>
