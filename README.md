@@ -20,6 +20,8 @@
 
 <h2 align="left">⏱️ WakaTime</h2>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=63a538e6-ad4f-403f-8640-82e050c36643)](https://github.com/anuraghazra/github-readme-stats)
+
 <details>
 <summary>More</summary>
 
@@ -118,6 +120,9 @@ Verilog                  2 repos             ░░░░░░░░░░░�
  <summary>More</summary>
  
  [![GitHub Streak](https://streak-stats.demolab.com?user=Offliners&hide_border=true)](https://git.io/streak-stats)
+ 
+ ![Offliner's GitHub stats](https://github-readme-stats.vercel.app/api?username=offliners&show_icons=true&theme=transparent)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offliners&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 ![GitHub Snake Light](https://github.com/Offliners/Offliners/blob/output/github-contribution-grid-snake.svg)
