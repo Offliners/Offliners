@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Offliner</h1>
 
+<h3 align="left">Introduction:</h3>
+<h5 align="left">I am currently a master student in National Taiwan University.</h5>
+<h5 align="left">I am currently learning SLAM, 2D & 3D Computer Vision and Reinforcement Learning.</h5>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Offliners&hide_border=true)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
