@@ -1,20 +1,16 @@
 <h1 align="center">Hi 👋, I'm Offliner</h1>
 
-<h2 align="left">🔭 About Me</h2>
-<p>I am currently a master student in National Taiwan University.</p>
-<p>I am currently learning SLAM, 2D & 3D Computer Vision and Reinforcement Learning.</p>
-
-<h2 align="left">💻 My Workspace</h2>
-<p align='left'>
-  <img src="https://img.shields.io/badge/windows%2011-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu%2018.04-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i5%2012th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%203050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+<p align='center'>
+  <a href="#"><img src="https://streak-stats.demolab.com?user=Offliners&hide_border=true)](https://git.io/streak-stats" width="450"></a>
 </p>
 
-<h2 align="left">✉️ Connect with me</h2>
-<p align='left'>
+
+<p align='center'>
+  <br>I am currently a master student in National Taiwan University.</br>
+  I am currently learning SLAM, 2D & 3D Computer Vision and Reinforcement Learning.
+</p>
+
+<p align='center'>
   <a href="https://fb.com/offliner21904">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
@@ -34,6 +30,16 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<p align='center'>
+  💻 My workspace<br/><br/>
+  <img src="https://img.shields.io/badge/windows%2011-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu%2018.04-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i5%2012th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-gtx%203050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
 
 <h2 align="left">🛠️ Languages and Tools</h2>
 <p align='left'>
@@ -166,9 +172,6 @@ Verilog                  2 repos             ░░░░░░░░░░░�
 <h2 align="left">📊 Github Stat</h2>
 <details>
  <summary>More</summary>
- 
- [![GitHub Streak](https://streak-stats.demolab.com?user=Offliners&hide_border=true)](https://git.io/streak-stats)
- 
  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Offliners&&hide_border=true" /><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offliners&layout=compact" />
 </details>
 
