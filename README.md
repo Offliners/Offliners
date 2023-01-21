@@ -49,6 +49,19 @@
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />  
 </p>
 
+## 🏛️ Education
+- 📖 **Main Major - Mechatronic Engineering**\
+📆 2017 - 2021\
+📍 **National Taiwan Normal University** - Taipei, Taiwan
+
+- 📖 **Double Major - Eletrical Engineering**\
+📆 2018 - 2021\
+📍 **National Taiwan Normal University** - Taipei, Taiwan
+
+- 📖 **Graduate Student - Mechanical Engineering (Program of System Control)**\
+📆 2021 - Now\
+📍 **National Taiwan University** - Taipei, Taiwan
+
 <h2 align="left">🎧 Now Playing</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uty524335ljnrrlnyjnf34z55i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31uty524335ljnrrlnyjnf34z55i&redirect=true)
