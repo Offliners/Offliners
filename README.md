@@ -165,8 +165,12 @@ Verilog                  2 repos             ░░░░░░░░░░░�
 <h2 align="left">📊 Github Stat</h2>
 <details>
  <summary>More</summary>
- <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Offliners&&hide_border=true" /><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offliners&layout=compact" />
-  <img height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Offliners&theme=vue" />
+  <p align='center'>
+    <img src="https://github-profile-trophy.vercel.app/?username=Offliners" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Offliners&&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=offliners&layout=compact" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Offliners&theme=vue" />
+  </p>
 </details>
 
 ![GitHub Snake Light](https://github.com/Offliners/Offliners/blob/output/github-contribution-grid-snake.svg)
