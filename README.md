@@ -4,6 +4,15 @@
 <p>I am currently a master student in National Taiwan University.</p>
 <p>I am currently learning SLAM, 2D & 3D Computer Vision and Reinforcement Learning.</p>
 
+<h2 align="left">💻 My Workspace</h2>
+<p align='left'>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i7%2012th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-gtx%203050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
 <h2 align="left">✉️ Connect with me</h2>
 <p align="left">
 <a href="https://twitter.com/offliner15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="offliner15" height="30" width="40" /></a>
