@@ -20,7 +20,7 @@
 
 <h2 align="left">⏱️ WakaTime</h2>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=63a538e6-ad4f-403f-8640-82e050c36643)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=63a538e6-ad4f-403f-8640-82e050c36643&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
 <summary>More</summary>
