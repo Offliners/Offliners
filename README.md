@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Offliner</h1>
-
-<p align='center'>
-  <a href="#"><img src="https://streak-stats.demolab.com?user=Offliners&hide_border=true)](https://git.io/streak-stats" width="450"></a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=040C10&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Offliner;Nice+to+meet+you!" alt="Typing SVG"/></a>
 </p>
 
 <p align='center'>
@@ -165,6 +163,7 @@ Verilog                  2 repos             ░░░░░░░░░░░�
 <details>
  <summary>More</summary>
   <p align='center'>
+    <img src="https://streak-stats.demolab.com?user=Offliners&hide_border=true)](https://git.io/streak-stats" width="450">
     <img src="https://github-profile-trophy.vercel.app/?username=Offliners" />
     <img src="https://github-readme-stats.vercel.app/api?username=Offliners&&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=offliners&layout=compact" />
