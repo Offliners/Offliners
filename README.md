@@ -94,20 +94,16 @@ Sunday       134 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   1 hr 46 mins        █████████████████████████   99.58% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 47 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-myResearch               1 hr 47 mins        █████████████████████████   99.83% 
-offliner                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 47 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -128,7 +124,7 @@ Verilog                  2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Offliners/Offliners/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/01/2023 18:43:11 UTC
+ Last Updated on 31/01/2023 18:43:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
