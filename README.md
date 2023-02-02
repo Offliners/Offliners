@@ -51,7 +51,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-72-blue)
 
 **🐱 My GitHub Data** 
 
@@ -124,7 +124,7 @@ Verilog                  2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Offliners/Offliners/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/02/2023 18:43:56 UTC
+ Last Updated on 02/02/2023 18:47:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
