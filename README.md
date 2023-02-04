@@ -49,9 +49,9 @@
 <summary>More</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 **🐱 My GitHub Data** 
 
@@ -94,16 +94,16 @@ Sunday       146 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   15 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  15 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+guest                    15 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    15 mins             █████████████████████████   100.0%
 
 ```
 
@@ -124,7 +124,7 @@ Verilog                  2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Offliners/Offliners/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/02/2023 18:43:22 UTC
+ Last Updated on 04/02/2023 18:40:03 UTC
 <!--END_SECTION:waka-->
 
 </details>
