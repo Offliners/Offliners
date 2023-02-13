@@ -94,21 +94,16 @@ Sunday         154 commits       ████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   3 hrs 39 mins       ████████████████████████░   98.23 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 43 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-NTUxCGUST_Dialogue_System3 hrs 9 mins        █████████████████████░░░░   84.83 % 
-語音                       33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 43 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 ```
 
@@ -129,7 +124,7 @@ Verilog                  2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Offliners/Offliners/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/02/2023 18:43:24 UTC
+ Last Updated on 13/02/2023 18:48:05 UTC
 <!--END_SECTION:waka-->
 
 </details>
