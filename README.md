@@ -10,7 +10,7 @@
 <h2 align="left">💻 My Workspace</h2>
 <p align='left'>
   <img src="https://img.shields.io/badge/windows%2011-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu%2018.04-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu%2020.04-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%2012th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%203050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
