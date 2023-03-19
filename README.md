@@ -43,6 +43,12 @@
 📆 2021 - Now\
 📍 **National Taiwan University** - Taipei, Taiwan
 
+<h2 align="left">📊 Github Stat</h2>
+
+![GitHub Snake Light](https://github.com/Offliners/Offliners/blob/output/github-contribution-grid-snake.svg)
+
+![](./profile-3d-contrib/profile-season-animate.svg)
+
 <h2 align="left">⏱️ WakaTime</h2>
 
 <details>
@@ -128,19 +134,3 @@ Verilog                  2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 </details>
-
-<h2 align="left">📊 Github Stat</h2>
-<details>
- <summary>More</summary>
-  <p align='center'>
-    <img src="https://streak-stats.demolab.com?user=Offliners&hide_border=true)](https://git.io/streak-stats" width="450">
-    <img src="https://github-profile-trophy.vercel.app/?username=Offliners" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Offliners&&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=offliners&layout=compact" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Offliners&theme=vue" />
-  </p>
-</details>
-
-![GitHub Snake Light](https://github.com/Offliners/Offliners/blob/output/github-contribution-grid-snake.svg)
-
-![](./profile-3d-contrib/profile-season-animate.svg)
