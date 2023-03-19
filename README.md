@@ -142,3 +142,5 @@ Verilog                  2 repos             ░░░░░░░░░░░�
 </details>
 
 ![GitHub Snake Light](https://github.com/Offliners/Offliners/blob/output/github-contribution-grid-snake.svg)
+
+![](./profile-3d-contrib/profile-season-animate.svg)
