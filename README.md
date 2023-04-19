@@ -55,82 +55,31 @@
 <summary>More</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-566%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 37 Contributions in the Year 2023
- > 
-> 📦 4.8 MB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 40 Public Repositories 
- > 
-> 🔑 23 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning      123 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-🌆 Daytime      308 commits       ████████░░░░░░░░░░░░░░░░░   31.53 % 
-🌃 Evening      245 commits       ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-🌙 Night        301 commits       ███████░░░░░░░░░░░░░░░░░░   30.81 % 
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday         129 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Tuesday        120 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Wednesday      135 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Thursday       182 commits       ████░░░░░░░░░░░░░░░░░░░░░   18.63 % 
-Friday         145 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Saturday       112 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Sunday         154 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-
-```
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Taipei
+🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    6 hrs 24 mins       █████████████████████░░░░   83.76 % 
+CMake                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+C++                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
+VS Code                  7 hrs 39 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   25 repos            ██████████░░░░░░░░░░░░░░░   39.68 % 
-C++                      18 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-C                        8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Jupyter Notebook         5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Verilog                  2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-
+Linux                    7 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Offliners/Offliners/main/charts/bar_graph.png) 
-
-
- Last Updated on 16/02/2023 18:47:15 UTC
+ Last Updated on 19/04/2023 13:26:38 UTC
 <!--END_SECTION:waka-->
 
 </details>
