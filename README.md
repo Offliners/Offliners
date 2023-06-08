@@ -114,3 +114,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 </details>
+
+## Stay Updated with Arxiv CS.CV Daily Digest
+<img src="" alt="Word Cloud">
