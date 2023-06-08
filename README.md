@@ -4,7 +4,7 @@
 
 <p align='center'>
   <br>I am currently a master student in National Taiwan University.</br>
-  I am currently learning SLAM, 2D & 3D Computer Vision and Reinforcement Learning.
+  I am currently learning SLAM, 2D & 3D Computer Vision and Deep Learning for Human-Robot interaction.
 </p>
 
 <h2 align="left">💻 My Workspace</h2>
@@ -115,5 +115,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 </details>
 
-## 📃 Daily digest in Arxiv Computer Science - Computer Vision and Pattern Recognition
+## 📃 Daily digest in Arxiv Computer Science - CVPR
 <img src="https://github.com/Offliners/Offliners/blob/a225bdb8417e85392b4b4f5b8d8bc87185819b8d/wordcloud/wordcloud.png" alt="Word Cloud">
