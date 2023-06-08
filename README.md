@@ -115,5 +115,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 </details>
 
-## Stay Updated with Arxiv CS.CV Daily Digest
+## Stay updated with `Arxiv Computer Science - Robotics` daily digest
 <img src="" alt="Word Cloud">
