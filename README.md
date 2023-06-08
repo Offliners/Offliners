@@ -59,6 +59,18 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
+**🐱 My GitHub Data** 
+
+> 📦 6.0 MB Used in GitHub's Storage 
+ > 
+> 🏆 70 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 45 Public Repositories 
+ > 
+> 🔑 29 Private Repositories 
+ > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -78,8 +90,20 @@ VS Code                  37 hrs 29 mins      ███████████�
 Linux                    37 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
+**I Mostly Code in Python** 
 
- Last Updated on 08/06/2023 19:47:09 UTC
+```text
+Python                   27 repos            ██████████░░░░░░░░░░░░░░░   38.03 % 
+C++                      23 repos            ████████░░░░░░░░░░░░░░░░░   32.39 % 
+C                        8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Jupyter Notebook         6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+```
+
+
+
+
+ Last Updated on 08/06/2023 19:51:51 UTC
 <!--END_SECTION:waka-->
 
 </details>
