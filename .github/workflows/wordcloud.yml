@@ -48,7 +48,7 @@ jobs:
         if: steps.commit.outputs.push == 'true'
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.ACCESS_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}
           branch: word-cloud
           force: true
           
