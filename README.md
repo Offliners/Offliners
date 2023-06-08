@@ -47,7 +47,7 @@
 
 ![GitHub Snake Light](https://github.com/Offliners/Offliners/blob/output/github-contribution-grid-snake.svg)
 
-![](./profile-3d-contrib/profile-season-animate.svg)
+<!-- ![](./profile-3d-contrib/profile-season-animate.svg) -->
 
 <h2 align="left">⏱️ WakaTime</h2>
 
@@ -115,5 +115,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 </details>
 
-## 📃 `Arxiv Computer Science - Robotics` daily digest
+## 📃 Daily digest in Arxiv Computer Science - Computer Vision and Pattern Recognition
 <img src="https://github.com/Offliners/Offliners/blob/a225bdb8417e85392b4b4f5b8d8bc87185819b8d/wordcloud/wordcloud.png" alt="Word Cloud">
