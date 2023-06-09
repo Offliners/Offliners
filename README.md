@@ -116,4 +116,4 @@ HTML                     1 repo              ░░░░░░░░░░░�
 </details>
 
 ## 📃 Daily digest in Arxiv Computer Science - CVPR
-<img src="https://github.com/Offliners/Offliners/blob/a225bdb8417e85392b4b4f5b8d8bc87185819b8d/wordcloud/wordcloud.png" alt="Word Cloud">
+<img src="https://github.com/Offliners/Offliners/blob/word-cloud/wordcloud/wordcloud.png" alt="Word Cloud">
