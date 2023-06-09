@@ -55,19 +55,19 @@
 <summary>More</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-637%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-637%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-440-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 6.0 MB Used in GitHub's Storage 
  > 
-> 🏆 73 Contributions in the Year 2023
+> 🏆 604 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 45 Public Repositories 
+> 📜 44 Public Repositories 
  > 
 > 🔑 29 Private Repositories 
  > 
@@ -100,17 +100,17 @@ Linux                    37 hrs 29 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   27 repos            ██████████░░░░░░░░░░░░░░░   38.03 % 
-C++                      23 repos            ████████░░░░░░░░░░░░░░░░░   32.39 % 
-C                        8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Jupyter Notebook         6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Python                   28 repos            ██████████░░░░░░░░░░░░░░░   38.89 % 
+C++                      23 repos            ████████░░░░░░░░░░░░░░░░░   31.94 % 
+C                        8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Jupyter Notebook         6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 ```
 
 
 
 
- Last Updated on 08/06/2023 20:06:34 UTC
+ Last Updated on 09/06/2023 18:33:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
