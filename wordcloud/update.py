@@ -9,7 +9,7 @@ import arxivpy
 mpl.rcParams['figure.dpi'] = 300
 
 # arXiv query for Subject Category : https://github.com/titipata/arxivpy/wiki
-articles = arxivpy.query(search_query=['cs.RO'],
+articles = arxivpy.query(search_query=['cs.RO', 'cs.CV', 'cs.HC'],
                          start_index=0, max_index=500, results_per_iteration=100,
                          wait_time=1.0, sort_by='lastUpdatedDate')
 
