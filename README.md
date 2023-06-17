@@ -115,5 +115,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 </details>
 
-## 📃 Daily digest in Arxiv Computer Science - CVPR
+## 📃 Daily digest in Arxiv Computer Science - CVPR, Robotics and Human-Computer Interaction
 <img src="https://github.com/Offliners/Offliners/blob/word-cloud/wordcloud/wordcloud.png" alt="Word Cloud">
