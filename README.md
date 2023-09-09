@@ -57,7 +57,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-785%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-96-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue)
 
 **🐱 My GitHub Data** 
 
@@ -77,22 +77,16 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-XML                      19 mins             ███████████░░░░░░░░░░░░░░   44.67 % 
-Markdown                 13 mins             ████████░░░░░░░░░░░░░░░░░   31.73 % 
-Python                   5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LiDAR-Gazebo-Simulation  34 mins             ████████████████████░░░░░   80.00 % 
-PathPlanning             6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-offliner                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    42 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +102,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2023 18:33:48 UTC
+ Last Updated on 09/09/2023 18:33:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
