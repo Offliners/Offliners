@@ -7,7 +7,7 @@
   I am currently learning SLAM, 2D & 3D Computer Vision and Deep Learning for Human-Robot interaction.
 </p>
 <p align='center'>
-  Here is my <a href="https://www.youtube.com/">CV</a>
+  Here is my <a href="https://github.com/Offliners/Offliners/blob/main/myCV.pdf">CV</a>
 </p>
 <h2 align="left">💻 My Workspace</h2>
 <p align='left'>
