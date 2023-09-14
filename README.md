@@ -6,7 +6,9 @@
   <br>I am currently a master student in National Taiwan University.</br>
   I am currently learning SLAM, 2D & 3D Computer Vision and Deep Learning for Human-Robot interaction.
 </p>
-
+<p align='center'>
+  Here is my <a href="https://www.youtube.com/">CV</a>
+</p>
 <h2 align="left">💻 My Workspace</h2>
 <p align='left'>
   <img src="https://img.shields.io/badge/windows%2011-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
