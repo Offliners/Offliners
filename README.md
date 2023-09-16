@@ -37,7 +37,7 @@
 📆 2017 - 2021\
 📍 **National Taiwan Normal University** - Taipei, Taiwan
 
-- 📖 **Double Major - Eletrical Engineering**\
+- 📖 **Double Major - Electrical Engineering**\
 📆 2018 - 2021\
 📍 **National Taiwan Normal University** - Taipei, Taiwan
 
