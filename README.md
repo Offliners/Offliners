@@ -42,7 +42,7 @@
 📍 **National Taiwan Normal University** - Taipei, Taiwan
 
 - 📖 **Graduate Student - Mechanical Engineering (Program of System Control)**\
-📆 2021 - 2022\
+📆 2021 - 2023\
 📍 **National Taiwan University** - Taipei, Taiwan
 
 <h2 align="left">📊 Github Stat</h2>
