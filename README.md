@@ -20,12 +20,12 @@
 
 <h2 align="left">🛠️ Languages and Tools</h2>
 <p align='left'>
-  <img src="https://img.shields.io/badge/Verilog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verilog-1a348f?style=for-the-badge&logo=verilog&logoColor=white" />
+  <img src="https://img.shields.io/badge/System Verilog-000000?style=for-the-badge&logo=systemverilog&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch Lightning-792EE5?style=for-the-badge&logo=PyTorch Lightning&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
