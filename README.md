@@ -58,15 +58,15 @@
 <summary>More</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-809%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-814%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-80-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-78-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 6.6 MB Used in GitHub's Storage 
  > 
-> 🏆 935 Contributions in the Year 2023
+> 🏆 949 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,17 +104,17 @@ Windows                  2 hrs 8 mins        ███░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   29 repos            ██████████░░░░░░░░░░░░░░░   39.19 % 
-C++                      24 repos            ████████░░░░░░░░░░░░░░░░░   32.43 % 
-C                        8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Jupyter Notebook         6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Python                   29 repos            ██████████░░░░░░░░░░░░░░░   38.67 % 
+C++                      24 repos            ████████░░░░░░░░░░░░░░░░░   32.00 % 
+Jupyter Notebook         6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+SystemVerilog            1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 
 
 
 
- Last Updated on 02/10/2023 18:35:34 UTC
+ Last Updated on 03/10/2023 18:35:38 UTC
 <!--END_SECTION:waka-->
 
 </details>
