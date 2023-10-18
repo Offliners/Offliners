@@ -44,7 +44,8 @@
 📆 2021 - 2023\
 📍 **National Taiwan University** - Taipei, Taiwan
 
-<h2 align="left">📊 LeetCode Stats</h2>
+<h2 align="left">📈 LeetCode Stats</h2>
+
 [![Offliner's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=offliner)](https://github.com/KnlnKS/leetcode-stats)
 
 <h2 align="left">📊 Github Stat</h2>
