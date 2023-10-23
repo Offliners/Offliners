@@ -60,15 +60,13 @@
 <summary>More</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-845%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-846%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-88-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-99-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 6.7 MB Used in GitHub's Storage 
- > 
-> 🏆 979 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -82,22 +80,16 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 9 hrs 55 mins       ██████████████████████░░░   88.00 % 
-Python                   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-C++                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-SystemVerilog            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Ezhil                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Markdown                 8 hrs 57 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-C_CPP_Review_for_Intervie11 hrs 12 mins      █████████████████████████   99.25 % 
-NYCU_DCS_writeup         5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+C_CPP_Review_for_Intervie8 hrs 57 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    11 hrs 12 mins      █████████████████████████   99.25 % 
-Windows                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Linux                    8 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +105,7 @@ SystemVerilog            1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2023 18:33:57 UTC
+ Last Updated on 23/10/2023 18:34:33 UTC
 <!--END_SECTION:waka-->
 
 </details>
