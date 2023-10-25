@@ -62,7 +62,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-846%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
 
 **🐱 My GitHub Data** 
 
@@ -107,7 +107,7 @@ SystemVerilog            1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2023 18:35:28 UTC
+ Last Updated on 25/10/2023 18:34:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
