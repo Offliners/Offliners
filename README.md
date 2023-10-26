@@ -46,7 +46,7 @@
 
 <h2 align="left">📈 LeetCode Stat</h2>
 
-[![Offliner's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=offliner)](https://github.com/KnlnKS/leetcode-stats)
+[![Offliner's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=offliner)](https://leetcode.com/)
 
 <h2 align="left">📊 Github Stat</h2>
 
