@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />  
 </p>
 
+
 ## 🏛️ Education
 - 📖 **Main Major - Mechatronic Engineering**\
 📆 2017 - 2021\
