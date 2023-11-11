@@ -60,15 +60,13 @@
 <summary>More</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-887%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-891%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 6.9 MB Used in GitHub's Storage 
- > 
-> 🏆 1,091 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -114,7 +112,7 @@ SystemVerilog            1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2023 18:34:44 UTC
+ Last Updated on 11/11/2023 18:33:35 UTC
 <!--END_SECTION:waka-->
 
 </details>
