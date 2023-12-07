@@ -60,13 +60,15 @@
 <summary>More</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-897%20hrs%2050%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 6.9 MB Used in GitHub's Storage 
  > 
-> 🏆 1,105 Contributions in the Year 2023
+> 🏆 1,125 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -74,6 +76,24 @@
  > 
 > 🔑 28 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -87,7 +107,7 @@ SystemVerilog            1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2023 18:35:37 UTC
+ Last Updated on 07/12/2023 18:35:39 UTC
 <!--END_SECTION:waka-->
 
 </details>
