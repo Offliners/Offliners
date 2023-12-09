@@ -60,7 +60,7 @@
 <summary>More</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-897%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-899%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
@@ -68,7 +68,7 @@
 
 > 📦 6.9 MB Used in GitHub's Storage 
  > 
-> 🏆 1,138 Contributions in the Year 2023
+> 🏆 1,145 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -82,16 +82,18 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 13 mins        █████████████████████░░░░   85.31 % 
+V                        12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 25 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+HDLBits-writeup          1 hr 25 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +109,7 @@ SystemVerilog            1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/12/2023 18:35:10 UTC
+ Last Updated on 09/12/2023 18:33:37 UTC
 <!--END_SECTION:waka-->
 
 </details>
