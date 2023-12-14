@@ -3,7 +3,7 @@
 </p>
 
 <p align='center'>
-  <br>I am currently learning SLAM, 2D & 3D Computer Vision and Deep Learning for Human-Robot interaction.</br>
+  <br>I am currently learning Verilog and SystemVerilog for hardware design and verification.</br>
   Here is my <a href="https://drive.google.com/file/d/1CskMJK65YNuP7bsHRTsedUMsb9e_5hPN/view?usp=share_link">CV</a>
 </p>
 
@@ -25,10 +25,7 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />  
 </p>
 
 ## 🏛️ Education
