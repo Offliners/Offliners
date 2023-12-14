@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/synopsys-purple.svg?logo=synopsys&style=for-the-badge&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/cadence-gray.svg?logo=cadence&style=for-the-badge&logoColor=white" />
 </p>
 
 ## 🏛️ Education
