@@ -60,15 +60,15 @@
 <summary>More</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-913%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-914%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 6.9 MB Used in GitHub's Storage 
  > 
-> 🏆 1,236 Contributions in the Year 2023
+> 🏆 1,247 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -82,17 +82,17 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 1 hr 58 mins        ████████████████████████░   97.19 % 
-V                        3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Markdown                 3 hrs 9 mins        ████████████████████████░   94.07 % 
+V                        11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-HDLBits-writeup          2 hrs 2 mins        █████████████████████████   100.00 % 
+HDLBits-writeup          3 hrs 21 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +108,7 @@ SystemVerilog            1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/12/2023 18:33:47 UTC
+ Last Updated on 29/12/2023 18:33:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
