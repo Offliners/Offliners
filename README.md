@@ -113,5 +113,5 @@ SystemVerilog            1 repo              ░░░░░░░░░░░�
 
 </details>
 
-## 📃 Daily digest in Arxiv Computer Science and Hardware Architecture
+## 📃 Daily digest in arXiv Computer Science and Hardware Architecture
 <img src="https://github.com/Offliners/Offliners/blob/word-cloud/wordcloud/wordcloud.png" alt="Word Cloud">
