@@ -31,6 +31,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/modelsim-F2F3F4.svg?logo=modelsim_1&style=for-the-badge" />
   <img src="https://custom-icon-badges.demolab.com/badge/synopsys-purple.svg?logo=synopsys&style=for-the-badge&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/cadence-silver.svg?logo=cadence&style=for-the-badge" />
+  <img src="https://custom-icon-badges.demolab.com/badge/solidworks-FF3333.svg?logo=solidworks&style=for-the-badge&logoColor=white" />
 </p>
 
 ## 🏛️ Education
