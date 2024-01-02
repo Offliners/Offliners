@@ -37,17 +37,17 @@
 </p>
 
 ## 🏛️ Education
-- 📖 **B.S. Mechatronic Engineering (Main Major)**\
-📆 2017 - 2021\
-🏫 **National Taiwan Normal University** - Taipei, Taiwan
+- 📖 **M.S. Mechanical Engineering (Program of System Control)**\
+📆 2021 - 2023\
+🏫 **National Taiwan University** - Taipei, Taiwan
 
 - 📖 **B.S. Electrical Engineering (Double Major)**\
 📆 2018 - 2021\
 🏫 **National Taiwan Normal University** - Taipei, Taiwan
 
-- 📖 **M.S. Mechanical Engineering (Program of System Control)**\
-📆 2021 - 2023\
-🏫 **National Taiwan University** - Taipei, Taiwan
+- 📖 **B.S. Mechatronic Engineering (Main Major)**\
+📆 2017 - 2021\
+🏫 **National Taiwan Normal University** - Taipei, Taiwan
 
 <h2 align="left">📈 LeetCode Stats</h2>
 
