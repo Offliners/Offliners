@@ -37,15 +37,15 @@
 </p>
 
 ## 🏛️ Education
-- 📖 **Main Major - Mechatronic Engineering**\
+- 📖 **B.S. Mechatronic Engineering (Main Major)**\
 📆 2017 - 2021\
 🏫 **National Taiwan Normal University** - Taipei, Taiwan
 
-- 📖 **Double Major - Electrical Engineering**\
+- 📖 **B.S. Electrical Engineering (Double Major)**\
 📆 2018 - 2021\
 🏫 **National Taiwan Normal University** - Taipei, Taiwan
 
-- 📖 **Graduate Student - Mechanical Engineering (Program of System Control)**\
+- 📖 **M.S. Mechanical Engineering (Program of System Control)**\
 📆 2021 - 2023\
 🏫 **National Taiwan University** - Taipei, Taiwan
 
