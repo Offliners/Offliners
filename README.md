@@ -65,23 +65,23 @@
 <summary>More</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-926%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-926%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-118-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-176-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 6.9 MB Used in GitHub's Storage 
+> 📦 6.7 MB Used in GitHub's Storage 
  > 
-> 🏆 42 Contributions in the Year 2024
+> 🏆 52 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 48 Public Repositories 
+> 📜 46 Public Repositories 
  > 
-> 🔑 28 Private Repositories 
+> 🔑 21 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -113,17 +113,17 @@ Windows                  6 hrs 33 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   29 repos            ██████████░░░░░░░░░░░░░░░   38.16 % 
-C++                      25 repos            ████████░░░░░░░░░░░░░░░░░   32.89 % 
-Jupyter Notebook         6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Verilog                  3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-SystemVerilog            1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Python                   25 repos            █████████░░░░░░░░░░░░░░░░   36.76 % 
+C++                      24 repos            █████████░░░░░░░░░░░░░░░░   35.29 % 
+Jupyter Notebook         5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Verilog                  3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+SystemVerilog            1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
 
 
 
- Last Updated on 02/01/2024 19:38:08 UTC
+ Last Updated on 03/01/2024 18:40:13 UTC
 <!--END_SECTION:waka-->
 
 </details>
