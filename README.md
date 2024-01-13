@@ -51,7 +51,7 @@
 
 <h2 align="left">📈 LeetCode Stats</h2>
 
-[![Offliner's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=offliner)](https://leetcode.com/)
+[![Offliner's LeetCode stats](https://leetcard.jacoblin.cool/Offliner?theme=light&ext=contest)](https://leetcode.com/Offliner/)
 
 <h2 align="left">📊 Github Contributions</h2>
 
