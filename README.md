@@ -67,7 +67,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-930%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-176-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-148-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.0%20million%20lines%20of%20code-blue)
 
@@ -75,7 +75,7 @@
 
 > 📦 6.7 MB Used in GitHub's Storage 
  > 
-> 🏆 64 Contributions in the Year 2024
+> 🏆 66 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -89,18 +89,18 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 1 hr 53 mins        █████████████████████░░░░   82.23 % 
-C++                      20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-C                        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Markdown                 49 mins             ██████████████████░░░░░░░   72.23 % 
+C++                      16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+C                        3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Leetcode-writeup         2 hrs 18 mins       █████████████████████████   100.00 % 
+Leetcode-writeup         1 hr 9 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -116,7 +116,7 @@ SystemVerilog            1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/01/2024 18:39:42 UTC
+ Last Updated on 13/01/2024 18:38:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
