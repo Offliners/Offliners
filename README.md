@@ -65,9 +65,9 @@
 <summary>More</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-930%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-930%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-148-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.0%20million%20lines%20of%20code-blue)
 
@@ -75,7 +75,7 @@
 
 > 📦 6.7 MB Used in GitHub's Storage 
  > 
-> 🏆 66 Contributions in the Year 2024
+> 🏆 79 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -89,18 +89,20 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 49 mins             ██████████████████░░░░░░░   72.23 % 
-C++                      16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-C                        3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Markdown                 1 hr 14 mins        ██████████████████████░░░   86.92 % 
+C++                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+C                        3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 26 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Leetcode-writeup         1 hr 9 mins         █████████████████████████   100.00 % 
+Leetcode-writeup         1 hr 25 mins        █████████████████████████   99.64 % 
+offliner                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Linux                    1 hr 9 mins         █████████████████████████   100.00 % 
+WSL                      1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -116,7 +118,7 @@ SystemVerilog            1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/01/2024 18:38:34 UTC
+ Last Updated on 14/01/2024 17:21:11 UTC
 <!--END_SECTION:waka-->
 
 </details>
