@@ -65,17 +65,17 @@
 <summary>More</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C003%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C011%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 6.7 MB Used in GitHub's Storage 
+> 📦 6.8 MB Used in GitHub's Storage 
  > 
-> 🏆 155 Contributions in the Year 2024
+> 🏆 157 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -89,20 +89,21 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C                        8 hrs 11 mins       █████████████████████░░░░   84.54 % 
-Other                    1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Batchfile                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+C                        13 hrs              ██████████████████████░░░   86.59 % 
+Other                    1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Batchfile                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Objective-C              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  15 hrs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-eMMC                     9 hrs 40 mins       █████████████████████████   100.00 % 
+eMMC                     14 hrs 41 mins      ████████████████████████░   97.88 % 
+test_script              19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 💻 Operating System: 
-Windows                  9 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  15 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -118,7 +119,7 @@ SystemVerilog            1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/03/2024 18:38:19 UTC
+ Last Updated on 23/03/2024 18:37:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
