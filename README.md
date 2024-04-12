@@ -65,7 +65,9 @@
 <summary>More</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C080%20hrs%205%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.1%20million%20lines%20of%20code-blue)
 
@@ -79,6 +81,31 @@
  > 
 > 🔑 23 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Python                   18 hrs 51 mins      ████████████████░░░░░░░░░   62.96 % 
+C                        8 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+Other                    1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Diff                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+
+🔥 Editors: 
+VS Code                  29 hrs 57 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Parsing_tool             18 hrs 47 mins      ████████████████░░░░░░░░░   62.74 % 
+eMMC                     9 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   33.25 % 
+Eric_Competitor_tool     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+NYCU_ICLAB_2024_writeup  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+💻 Operating System: 
+Windows                  29 hrs 57 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -92,7 +119,7 @@ SystemVerilog            1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2024 18:38:42 UTC
+ Last Updated on 12/04/2024 18:38:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
