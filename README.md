@@ -87,17 +87,16 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C                        1 hr 55 mins        ███████████████████████░░   93.65 % 
-Objective-C              7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 3 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-eMMC                     2 hrs 3 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 3 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +112,7 @@ SystemVerilog            1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2024 18:41:22 UTC
+ Last Updated on 18/05/2024 18:38:38 UTC
 <!--END_SECTION:waka-->
 
 </details>
