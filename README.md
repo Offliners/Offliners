@@ -75,8 +75,6 @@
 
 > 📦 6.8 MB Used in GitHub's Storage 
  > 
-> 🏆 200 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 46 Public Repositories 
@@ -114,7 +112,7 @@ SystemVerilog            1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2024 18:42:29 UTC
+ Last Updated on 01/06/2024 18:39:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
