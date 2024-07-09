@@ -10,7 +10,6 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - name: Update gist
-        uses: superman66/wakatime-sync@master
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
