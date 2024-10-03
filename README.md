@@ -61,9 +61,6 @@
 
 <h2 align="left">⏱️ WakaTime</h2>
 
-<details>
-<summary>More</summary>
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -75,8 +72,6 @@ Git Config    2 mins          ░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-</details>
 
 ## 📃 Daily digest in arXiv Computer Science and Hardware Architecture
 <img src="https://github.com/Offliners/Offliners/blob/word-cloud/wordcloud/wordcloud.png" alt="Word Cloud">
