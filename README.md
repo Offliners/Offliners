@@ -3,7 +3,6 @@
 </p>
 
 <p align='center'>
-  <br>I am currently learning Verilog and SystemVerilog for IC design and verification.</br>
   Here is my <a href="https://drive.google.com/file/d/1uCdCnkuZE3QGYgitYwHrQXG5E3R5tsZw/view?usp=drive_link" target="_blank">CV</a>
 </p>
 
