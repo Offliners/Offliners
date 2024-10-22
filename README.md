@@ -63,11 +63,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C               9 hrs 35 mins   ███████▒░░░░░░░░░░░░░░░░░   29.65 %
-SystemVerilog   8 hrs 31 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.38 %
-Python          8 hrs 19 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.75 %
-Markdown        1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-Makefile        1 hr 50 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+SystemVerilog   12 hrs 37 mins  █████████░░░░░░░░░░░░░░░░   35.85 %
+C               11 hrs 1 min    ███████▓░░░░░░░░░░░░░░░░░   31.30 %
+Python          8 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   23.63 %
+Markdown        1 hr 45 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+Makefile        39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 ```
 
 <!--END_SECTION:waka-->
