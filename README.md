@@ -25,14 +25,10 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/ros-333CFF.svg?logo=ros&style=for-the-badge&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/gazebo-F7F9F9.svg?logo=gazebo&style=for-the-badge" />
   <img src="https://custom-icon-badges.demolab.com/badge/matlab-yellow.svg?logo=matlab_1&style=for-the-badge" />
   <img src="https://custom-icon-badges.demolab.com/badge/modelsim-F2F3F4.svg?logo=modelsim_1&style=for-the-badge" />
   <img src="https://custom-icon-badges.demolab.com/badge/synopsys-purple.svg?logo=synopsys&style=for-the-badge&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/cadence-silver.svg?logo=cadence&style=for-the-badge" />
-  <img src="https://custom-icon-badges.demolab.com/badge/solidworks-FF3333.svg?logo=solidworks&style=for-the-badge&logoColor=white" />
 </p>
 
 ## 🏛️ Education
