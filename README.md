@@ -59,7 +59,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C               2 hrs 36 mins   ████████████████▓░░░░░░░░   66.83 %
+Makefile        43 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.76 %
+SystemVerilog   15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+Text            6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Markdown        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```
 
 <!--END_SECTION:waka-->
