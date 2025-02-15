@@ -8,7 +8,10 @@
 
 <h2 align="left">💻 My Workspace</h2>
 <p align='left'>
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
   <img src="https://img.shields.io/badge/Apple-MacBook_Air_M3-333333?style=for-the-badge&logo=apple&logoColor=white">
+</p>
+<p align='left'>
   <img src="https://img.shields.io/badge/windows%2011-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu%2020.04-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%2012th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
