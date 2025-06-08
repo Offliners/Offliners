@@ -60,17 +60,10 @@
 
 <h2 align="left">⏱️ WakaTime</h2>
 
-<!--START_SECTION:waka-->
-
-```txt
-Python        16 hrs 16 mins  █████████████▓░░░░░░░░░░░   54.47 %
-C             9 hrs 43 mins   ████████░░░░░░░░░░░░░░░░░   32.52 %
-YAML          1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-Markdown      1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-Makefile      37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-```
-
-<!--END_SECTION:waka-->
+<img
+  src="https://github.com/Offliners/Offliners/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
 
 ## 📃 Daily digest in arXiv Computer Science and Hardware Architecture
 <img src="https://github.com/Offliners/Offliners/blob/word-cloud/wordcloud/wordcloud.png" alt="Word Cloud">
