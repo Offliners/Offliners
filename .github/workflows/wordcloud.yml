@@ -5,16 +5,20 @@ on:
     branches:
       - master
   schedule:
-    - cron: '0 */24 * * *'
-  workflow_dispatch:
+    - cron: '00 02 * * *'
 
+permissions:
+  contents: write
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Build 🔧
-        uses: actions/checkout@v2
+      - name: Checkout repository (full history)
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Set up Python 3.8
         uses: actions/setup-python@v2
@@ -31,26 +35,24 @@ jobs:
         run: |
           python wordcloud/update.py
 
-      - name: Commit files
-        id: commit
+      - name: Commit and push changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "github-actions"
-          git add --all
-          if [-z "$(git status --porcelain)"]; then
-             echo "::set-output name=push::false"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
           else
-             git commit -m "Add changes" -a
-             echo "::set-output name=push::true"
+            git commit -m "Add changes"
+            git fetch origin word-cloud:word-cloud || true
+            git push origin HEAD:word-cloud --force-with-lease
           fi
-        shell: bash
 
-      - name: Push changes
-        if: steps.commit.outputs.push == 'true'
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GH_TOKEN }}
-          branch: word-cloud
-          force: true
-          
-      - uses: gautamkrishnar/keepalive-workflow@master
+  workflow-keepalive:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    steps:
+      - name: Keep workflow alive
+        uses: liskin/gh-workflow-keepalive@v1
