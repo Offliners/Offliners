@@ -3,7 +3,7 @@
 </p>
 
 <p align='center'>
-  Here is my <a href="https://drive.google.com/file/d/1uCdCnkuZE3QGYgitYwHrQXG5E3R5tsZw/view?usp=drive_link" target="_blank">CV</a>
+  I like to implement every algorithms in C and verify them in Python.
 </p>
 
 <h2 align="left">💻 My Workspace</h2>
