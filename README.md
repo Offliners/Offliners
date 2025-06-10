@@ -3,7 +3,7 @@
 </p>
 
 <p align='center'>
-  I like to implement every algorithms in C and verify them in Python.
+  I like to implement every algorithms in C and verify them with Python.
 </p>
 
 <h2 align="left">💻 My Workspace</h2>
