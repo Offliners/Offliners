@@ -6,28 +6,38 @@
   A problem is a chance for you to do your best.
 </p>
 
-<h2 align="left">💻 My Workspace</h2>
+<h2 align="left">My Workspace</h2>
 <p align='left'>
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
-  <img src="https://img.shields.io/badge/Apple-MacBook_Air_M3-333333?style=for-the-badge&logo=apple&logoColor=white">
-</p>
-<p align='left'>
+  <b>OS</b><br/>
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/windows%2011-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu%2024.04-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <br/><br/>
+  <b>Device</b><br/>
+  <img src="https://img.shields.io/badge/Apple-MacBook_Air_M3-333333?style=for-the-badge&logo=apple&logoColor=white" />
+  <br/><br/>
+  <b>Hardware</b><br/>
   <img src="https://img.shields.io/badge/amd-%209950x3D-%23000000.svg?&style=for-the-badge&logo=amd&logoColor=black" />
   <img src="https://img.shields.io/badge/RAM-64GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-rtx%205090-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=green" />
 </p>
 
-<h2 align="left">🛠️ Languages and Tools</h2>
+<h2 align="left">Languages and Tools</h2>
 <p align='left'>
+  <b>HDL</b><br/>
   <img src="https://custom-icon-badges.demolab.com/badge/verilog-blue.svg?logo=verilog&style=for-the-badge&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/systemverilog-black.svg?logo=systemverilog&style=for-the-badge&logoColor=white" />
+  <br/><br/>
+  <b>Programming</b><br/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <br/><br/>
+  <b>AI/ML</b><br/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <br/><br/>
+  <b>EDA and Dev</b><br/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/matlab-yellow.svg?logo=matlab_1&style=for-the-badge" />
   <img src="https://custom-icon-badges.demolab.com/badge/modelsim-F2F3F4.svg?logo=modelsim_1&style=for-the-badge" />
@@ -35,35 +45,80 @@
   <img src="https://custom-icon-badges.demolab.com/badge/cadence-silver.svg?logo=cadence&style=for-the-badge" />
 </p>
 
-## 🏛️ Education
-- 📖 **M.S. Mechanical Engineering (Program of System Control)**\
-📆 2021 - 2023\
-🏫 **National Taiwan University** - Taipei, Taiwan
+## Work Experience
 
-- 📖 **B.S. Electrical Engineering (Double Major)**\
-📆 2018 - 2021\
-🏫 **National Taiwan Normal University** - Taipei, Taiwan
+<table>
+<tr>
+<td width="120" valign="top" align="center">
+<img src="https://www.hy-line-group.com/linecard/hcc/image-thumb__25532__manufacturer-wysiwyg-image/silicon_motion.webp" width="88" alt="Silicon Motion logo" />
+<br/>
+</td>
+<td valign="top">
 
-- 📖 **B.S. Mechatronic Engineering (Main Major)**\
-📆 2017 - 2021\
-🏫 **National Taiwan Normal University** - Taipei, Taiwan
+**Senior Engineer** · Silicon Motion\
+2024 – Now
 
-<h2 align="left">📈 LeetCode Stats</h2>
+</td>
+</tr>
+</table>
+
+## Education
+
+<table>
+<tr>
+<td width="100" valign="top">
+<img src="https://upload.wikimedia.org/wikipedia/zh/4/4c/National_Taiwan_University_logo.svg" width="88" alt="National Taiwan University logo" />
+</td>
+<td valign="top">
+
+**M.S. Mechanical Engineering (Program of System Control)**\
+2021 – 2023\
+**National Taiwan University** — Taipei, Taiwan
+
+</td>
+</tr>
+<tr>
+<td width="100" valign="top">
+<img src="https://upload.wikimedia.org/wikipedia/zh/c/c3/National_Taiwan_Normal_University_logo.svg" width="88" alt="National Taiwan Normal University logo" />
+</td>
+<td valign="top">
+
+**B.S. Electrical Engineering (Double Major)**\
+2018 – 2021\
+**National Taiwan Normal University** — Taipei, Taiwan
+
+</td>
+</tr>
+<tr>
+<td width="100" valign="top">
+<img src="https://upload.wikimedia.org/wikipedia/zh/c/c3/National_Taiwan_Normal_University_logo.svg" width="88" alt="National Taiwan Normal University logo" />
+</td>
+<td valign="top">
+
+**B.S. Mechatronic Engineering (Main Major)**\
+2017 – 2021\
+**National Taiwan Normal University** — Taipei, Taiwan
+
+</td>
+</tr>
+</table>
+
+<h2 align="left">LeetCode Stats</h2>
 
 [![Offliner's LeetCode stats](https://leetcard.jacoblin.cool/Offliner?theme=light&ext=contest)](https://leetcode.com/Offliner/)
 
-<h2 align="left">📊 Github Contributions</h2>
+<h2 align="left">Github Contributions</h2>
 
 ![GitHub Snake Light](https://github.com/Offliners/Offliners/blob/output/github-contribution-grid-snake.svg)
 
 <!-- ![](./profile-3d-contrib/profile-season-animate.svg) -->
 
-<h2 align="left">⏱️ WakaTime</h2>
+<h2 align="left">WakaTime</h2>
 
 <img
   src="https://github.com/Offliners/Offliners/blob/main/images/stat.svg"
   alt="Avinal WakaTime Activity"
 />
 
-## 📃 Daily digest in arXiv Computer Science and Hardware Architecture
+## Daily digest in arXiv Computer Science and Hardware Architecture
 <img src="https://github.com/Offliners/Offliners/blob/word-cloud/wordcloud/wordcloud.png" alt="Word Cloud">
