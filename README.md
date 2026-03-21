@@ -107,10 +107,6 @@
 </tr>
 </table>
 
-<h2 align="left">LeetCode Stats</h2>
-
-[![Offliner's LeetCode stats](https://leetcard.jacoblin.cool/Offliner?theme=light&ext=contest)](https://leetcode.com/Offliner/)
-
 <h2 align="left">Github Contributions</h2>
 
 ![GitHub Snake Light](https://github.com/Offliners/Offliners/blob/output/github-contribution-grid-snake.svg)
