@@ -121,11 +121,14 @@
 />
 
 ## Daily digest in arXiv Computer Science and Hardware Architecture
-### Top 3 (recent updates, same categories as word cloud)
+
+<img src="https://github.com/Offliners/Offliners/blob/word-cloud/wordcloud/wordcloud.png" alt="Word Cloud">
+
+## Top 3 Paper in arXiv Computer Science and Hardware Architecture
 <!-- ARXIV_DIGEST_TOP3_START -->
 1. [Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding](https://arxiv.org/abs/2603.19235v1)
 2. [Matryoshka Gaussian Splatting](https://arxiv.org/abs/2603.19234v1)
 3. [Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens](https://arxiv.org/abs/2603.19232v1)
 <!-- ARXIV_DIGEST_TOP3_END -->
 
-<img src="https://github.com/Offliners/Offliners/blob/word-cloud/wordcloud/wordcloud.png" alt="Word Cloud">
+
