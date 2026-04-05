@@ -8,15 +8,13 @@
 
 <h2 align="left">My Workspace</h2>
 <p align='left'>
-  <b>OS</b><br/>
+  <b>Laptop</b><br/>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/windows%2011-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu%2024.04-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <br/><br/>
-  <b>Device</b><br/>
   <img src="https://img.shields.io/badge/Apple-MacBook_Air_M3-333333?style=for-the-badge&logo=apple&logoColor=white" />
   <br/><br/>
-  <b>Hardware</b><br/>
+  <b>Computer</b><br/>
+  <img src="https://img.shields.io/badge/windows%2011-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu%2024.04-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/amd-%209950x3D-%23000000.svg?&style=for-the-badge&logo=amd&logoColor=black" />
   <img src="https://img.shields.io/badge/RAM-64GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-rtx%205090-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=green" />
