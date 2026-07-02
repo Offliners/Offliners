@@ -124,9 +124,9 @@
 
 ## Top 3 Paper in arXiv Computer Science and Hardware Architecture
 <!-- ARXIV_DIGEST_TOP3_START -->
-1. [Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding](https://arxiv.org/abs/2603.19235v1)
-2. [Matryoshka Gaussian Splatting](https://arxiv.org/abs/2603.19234v1)
-3. [Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens](https://arxiv.org/abs/2603.19232v1)
+1. [Measuring the Gap Between Human and LLM Research Ideas](https://arxiv.org/abs/2607.01233v1)
+2. [Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training](https://arxiv.org/abs/2607.01232v1)
+3. [Finite-Time Queue Peak Laws in Stochastic Networks: Logarithmic Scaling After Geometric Thresholds](https://arxiv.org/abs/2606.18218v2)
 <!-- ARXIV_DIGEST_TOP3_END -->
 
 
