@@ -124,9 +124,9 @@
 
 ## Top 3 Paper in arXiv Computer Science and Hardware Architecture
 <!-- ARXIV_DIGEST_TOP3_START -->
-1. [Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding](https://arxiv.org/abs/2603.19235v1)
-2. [Matryoshka Gaussian Splatting](https://arxiv.org/abs/2603.19234v1)
-3. [Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens](https://arxiv.org/abs/2603.19232v1)
+1. [SenseNova-U1.5: Towards Native Unified Visual Intelligence](https://arxiv.org/abs/2609.11929v1)
+2. [TBR: Transport-Based Rendering with Deposition Strokes for Inverse Graphics](https://arxiv.org/abs/2609.08722v2)
+3. [Positional task conditioning for scalable defect detection across product families in large product catalogs](https://arxiv.org/abs/2609.09567v2)
 <!-- ARXIV_DIGEST_TOP3_END -->
 
 
