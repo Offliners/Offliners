@@ -124,9 +124,9 @@
 
 ## Top 3 Paper in arXiv Computer Science and Hardware Architecture
 <!-- ARXIV_DIGEST_TOP3_START -->
-1. [Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding](https://arxiv.org/abs/2603.19235v1)
-2. [Matryoshka Gaussian Splatting](https://arxiv.org/abs/2603.19234v1)
-3. [Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens](https://arxiv.org/abs/2603.19232v1)
+1. [Moore, Escher, Penrose: A Conformal Golden Braid](https://arxiv.org/abs/2610.02210v1)
+2. [Sphere Encoder 2](https://arxiv.org/abs/2610.02208v1)
+3. [One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars](https://arxiv.org/abs/2610.02207v1)
 <!-- ARXIV_DIGEST_TOP3_END -->
 
 
