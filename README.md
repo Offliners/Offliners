@@ -124,9 +124,9 @@
 
 ## Top 3 Paper in arXiv Computer Science and Hardware Architecture
 <!-- ARXIV_DIGEST_TOP3_START -->
-1. [Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding](https://arxiv.org/abs/2603.19235v1)
-2. [Matryoshka Gaussian Splatting](https://arxiv.org/abs/2603.19234v1)
-3. [Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens](https://arxiv.org/abs/2603.19232v1)
+1. [Elucidating the Design Space of LM Data Attribution](https://arxiv.org/abs/2610.40655v1)
+2. [Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering](https://arxiv.org/abs/2610.40654v1)
+3. [Micro-Edits: Computational Support for Fine-Scale Edits in Film](https://arxiv.org/abs/2610.40653v1)
 <!-- ARXIV_DIGEST_TOP3_END -->
 
 
