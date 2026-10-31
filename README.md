@@ -52,7 +52,7 @@
 <table>
 <tr>
 <td width="120" valign="top" align="center">
-<img src="https://www.hy-line-group.com/linecard/hcc/image-thumb__25532__manufacturer-wysiwyg-image/silicon_motion.webp" width="88" alt="Silicon Motion logo" />
+<img src="./SIMO.png" width="88" alt="Silicon Motion logo" />
 <br/>
 </td>
 <td valign="top">
