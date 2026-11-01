@@ -57,11 +57,9 @@
 </td>
 <td valign="top">
 
-**Senior Engineer** · Silicon Motion\
-2024 – 2026
-
-**Supervisor Engineer** · Silicon Motion\
-2026 – Now
+**Silicon Motion**\
+Senior Engineer · 2024 – 2026\
+Supervisor Engineer · 2026 – Now
 
 </td>
 </tr>
