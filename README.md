@@ -125,9 +125,9 @@ Supervisor Engineer · 2026 – Now
 
 ## Top 3 Paper in arXiv Computer Science and Hardware Architecture
 <!-- ARXIV_DIGEST_TOP3_START -->
-1. [Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding](https://arxiv.org/abs/2603.19235v1)
-2. [Matryoshka Gaussian Splatting](https://arxiv.org/abs/2603.19234v1)
-3. [Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens](https://arxiv.org/abs/2603.19232v1)
+1. [Back to Pixels: Lifting Latent Video Diffusion into Pixel Space](https://arxiv.org/abs/2611.17336v1)
+2. [Unbundling Multimodal Vision Encoding](https://arxiv.org/abs/2611.17334v1)
+3. [TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models](https://arxiv.org/abs/2611.17331v1)
 <!-- ARXIV_DIGEST_TOP3_END -->
 
 
